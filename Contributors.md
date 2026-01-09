@@ -5,6 +5,7 @@
 - [Gary Chen](https://github.com/Gary-XC) - Starting my first contribution to open source in 2026, the first of many to come
 - [XuenDN](https://github.com/xuen0) - yo
 - [Dominick Vaske](https://github.com/dominickvaske) - Proud to start this journey with everyone!
+- - [Sarthak Kate](https://github.com/sarthakkatekate)
 - [Alan Sajith](https://github.com/alansajith) - happy 2026
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
 - [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
